@@ -3,22 +3,22 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>pragma</string>
+	<string>selector</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
-		<string>All</string>
+		<string>CodeBlock</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>#pragma mark -</string>
+	<string>@selector(&lt;#selector#&gt;)</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>B79B937A-1118-4ACB-B59C-059C4DF04EE2</string>
+	<string>B10D00D8-0BB4-4075-86E8-93EE585108BD</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Objective-C</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>#pragma mark -</string>
+	<string>@selector(selector)</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>
-	<integer>2</integer>
+	<integer>0</integer>
 </dict>
 </plist>
