@@ -9,11 +9,13 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>#pragma mark -</string>
+	<string>#pragma mark - </string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>B79B937A-1118-4ACB-B59C-059C4DF04EE2</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Objective-C</string>
+	<key>IDECodeSnippetSummary</key>
+	<string>zx</string>
 	<key>IDECodeSnippetTitle</key>
 	<string>#pragma mark -</string>
 	<key>IDECodeSnippetUserSnippet</key>

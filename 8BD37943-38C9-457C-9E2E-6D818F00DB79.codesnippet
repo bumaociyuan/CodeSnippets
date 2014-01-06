@@ -14,6 +14,8 @@
 	<string>8BD37943-38C9-457C-9E2E-6D818F00DB79</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Objective-C</string>
+	<key>IDECodeSnippetSummary</key>
+	<string>zx</string>
 	<key>IDECodeSnippetTitle</key>
 	<string>weakself</string>
 	<key>IDECodeSnippetUserSnippet</key>
