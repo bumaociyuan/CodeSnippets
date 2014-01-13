@@ -3,24 +3,24 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>imagename</string>
+	<string>@property</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
-		<string>CodeBlock</string>
+		<string>ClassInterfaceMethods</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>[UIImage imageNamed:&lt;#imageName#&gt;]</string>
+	<string>@property (strong, nonatomic) IBOutletCollection(&lt;#Class#&gt;) NSArray *&lt;#array#&gt;;</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>59F1F23E-EE82-4BB5-8AE1-F732BB1ABE11</string>
+	<string>36BFF12C-B395-423A-8C8A-D54DB9156CE2</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Objective-C</string>
 	<key>IDECodeSnippetSummary</key>
 	<string>zx</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>[UIImage imageNamed:imageName]</string>
+	<string>IBOutletCollection</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>
-	<integer>2</integer>
+	<integer>0</integer>
 </dict>
 </plist>
