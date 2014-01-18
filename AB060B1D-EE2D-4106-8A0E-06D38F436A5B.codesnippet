@@ -3,21 +3,22 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>@property</string>
+	<string>@interface</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
-		<string>ClassInterfaceMethods</string>
+		<string>Preprocessor</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>@property (strong, nonatomic) IBOutletCollection(&lt;#Class#&gt;) NSArray *&lt;#array#&gt;;</string>
+	<string>@interface &lt;#Class#&gt; ()
+@end</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>36BFF12C-B395-423A-8C8A-D54DB9156CE2</string>
+	<string>AB060B1D-EE2D-4106-8A0E-06D38F436A5B</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Objective-C</string>
 	<key>IDECodeSnippetSummary</key>
 	<string>zx</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>IBOutletCollection</string>
+	<string>interface</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>
