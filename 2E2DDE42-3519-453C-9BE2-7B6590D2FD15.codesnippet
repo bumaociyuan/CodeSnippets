@@ -3,22 +3,36 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>@interface</string>
+	<string>lifecycle</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
-		<string>Preprocessor</string>
+		<string>ClassImplementation</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>@interface &lt;#Class#&gt; ()
-@end</string>
+	<string>#pragma mark - life cycle
+- (void)viewWillAppear:(BOOL)animated {
+    [super viewWillAppear:animated];
+}
+
+- (void)viewDidAppear:(BOOL)animated {
+    [super viewDidAppear:animated];
+}
+
+- (void)viewWillDisappear:(BOOL)animated {
+    [super viewWillDisappear:animated];
+}
+
+- (void)viewDidDisappear:(BOOL)animated {
+    [super viewWillAppear:animated];
+}</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>AB060B1D-EE2D-4106-8A0E-06D38F436A5B</string>
+	<string>2E2DDE42-3519-453C-9BE2-7B6590D2FD15</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Objective-C</string>
 	<key>IDECodeSnippetSummary</key>
 	<string>zx</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>interface</string>
+	<string>#pragma mark - life cycle</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>
