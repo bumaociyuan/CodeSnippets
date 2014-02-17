@@ -3,22 +3,25 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>@interface</string>
+	<string>typedef</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
 		<string>TopLevel</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>@interface &lt;#Class#&gt; ()
-@end</string>
+	<string>typedef NS_OPTIONS(NSUInteger, &lt;#TYPE#&gt;) {
+    &lt;#TYPE_0#&gt;   = 0,
+    &lt;#TYPE_1#&gt;   = 1 &lt;&lt; 0,
+    &lt;#TYPE_2#&gt;   = 1 &lt;&lt; 1
+};</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>AB060B1D-EE2D-4106-8A0E-06D38F436A5B</string>
+	<string>216E3AD3-0A81-4629-A86D-4F3A7109A06E</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Objective-C</string>
 	<key>IDECodeSnippetSummary</key>
 	<string>zx</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>interface</string>
+	<string>typedef</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>
