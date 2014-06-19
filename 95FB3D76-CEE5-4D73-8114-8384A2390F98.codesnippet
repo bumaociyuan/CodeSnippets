@@ -9,7 +9,7 @@
 		<string>ClassImplementation</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>+ (id)shareInstance {
+	<string>+ (instancetype)shareInstance {
 	static &lt;#Class#&gt; *instance = nil;
 	if (instance == nil) {
 		static dispatch_once_t onceToken;
