@@ -10,11 +10,11 @@
 	</array>
 	<key>IDECodeSnippetContents</key>
 	<string>+ (instancetype)shareInstance {
-	static &lt;#Class#&gt; *instance = nil;
+	static id instance = nil;
 	if (instance == nil) {
 		static dispatch_once_t onceToken;
 		dispatch_once(&amp;onceToken, ^{
-		    instance = [[&lt;#Class#&gt; alloc]init];
+		    instance = [[self alloc]init];
 		});
 	}
 	return instance;
