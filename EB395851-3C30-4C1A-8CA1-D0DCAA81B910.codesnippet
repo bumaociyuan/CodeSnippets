@@ -3,28 +3,24 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>case</string>
+	<string>fixme</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
 		<string>CodeBlock</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>case &lt;#expression#&gt;:
-        {
-            &lt;#something#&gt;
-        }
-            break;</string>
+	<string>//FIXME: &lt;#fix some thing#&gt;</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>BC6B9D7E-0B8C-4627-AF64-D8C1D570B8D4</string>
+	<string>EB395851-3C30-4C1A-8CA1-D0DCAA81B910</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Objective-C</string>
 	<key>IDECodeSnippetSummary</key>
-	<string>case</string>
-	<key>IDECodeSnippetTitle</key>
 	<string>zx</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>//FIXME</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>
-	<integer>2</integer>
+	<integer>0</integer>
 </dict>
 </plist>

@@ -3,25 +3,21 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>case</string>
+	<string>zxparams</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
 		<string>CodeBlock</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>case &lt;#expression#&gt;:
-        {
-            &lt;#something#&gt;
-        }
-            break;</string>
+	<string>NSMutableDictionary *&lt;#params#&gt; = [NSMutableDictionary new];</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>BC6B9D7E-0B8C-4627-AF64-D8C1D570B8D4</string>
+	<string>89CBB519-89F0-4DFD-9E8A-679E9DE742A1</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Objective-C</string>
 	<key>IDECodeSnippetSummary</key>
-	<string>case</string>
-	<key>IDECodeSnippetTitle</key>
 	<string>zx</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>NSMutableDictionary</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>
