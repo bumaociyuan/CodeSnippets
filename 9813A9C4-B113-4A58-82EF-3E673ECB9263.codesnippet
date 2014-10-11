@@ -10,10 +10,10 @@
 	</array>
 	<key>IDECodeSnippetContents</key>
 	<string>    // MARK: - UITableViewDataSource
-    func tableView(tableView: UITableView!, numberOfRowsInSection section: Int) -&gt; Int {
+    func tableView(tableView: UITableView, numberOfRowsInSection section: Int) -&gt; Int {
     }
     
-    func tableView(tableView: UITableView!, cellForRowAtIndexPath indexPath: NSIndexPath!) -&gt; UITableViewCell! {
+    func tableView(tableView: UITableView, cellForRowAtIndexPath indexPath: NSIndexPath) -&gt; UITableViewCell {
     }</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>9813A9C4-B113-4A58-82EF-3E673ECB9263</string>

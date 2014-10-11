@@ -3,21 +3,23 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>pragma</string>
+	<string>ibaction</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
 		<string>ClassImplementation</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>// MARK: - &lt;#some words#&gt;</string>
+	<string>@IBAction func &lt;#method#&gt;(sender: &lt;#class#&gt;) {
+        
+    }</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>AEA174FA-8787-4DCA-8FCC-008E98BC9AFC</string>
+	<string>B54D6CF8-3C3C-4893-A5C4-389BF855428A</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Swift</string>
 	<key>IDECodeSnippetSummary</key>
 	<string>zx</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>// MARK: -</string>
+	<string>@IBAction</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>
