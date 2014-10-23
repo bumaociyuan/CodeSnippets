@@ -6,7 +6,7 @@
 	<string>clear_color</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
-		<string>CodeBlock</string>
+		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
 	<string>[UIColor clearColor]</string>
