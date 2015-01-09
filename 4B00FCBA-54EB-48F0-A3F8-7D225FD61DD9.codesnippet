@@ -3,21 +3,24 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>zximagename</string>
+	<string>zxenumerate</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>[UIImage imageNamed:&lt;#imageName#&gt;]</string>
+	<string>enumerateObjectsUsingBlock:^(&lt;#id#&gt; &lt;#obj#&gt;, NSUInteger idx, BOOL *stop) {
+        &lt;#code#&gt;
+    }
+</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>59F1F23E-EE82-4BB5-8AE1-F732BB1ABE11</string>
+	<string>4B00FCBA-54EB-48F0-A3F8-7D225FD61DD9</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Objective-C</string>
 	<key>IDECodeSnippetSummary</key>
 	<string>zx</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>[UIImage imageNamed:imageName]</string>
+	<string>zxenumerate</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>

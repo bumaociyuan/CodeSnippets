@@ -3,21 +3,21 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>zximagename</string>
+	<string>zxweakobj</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
-		<string>All</string>
+		<string>CodeBlock</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>[UIImage imageNamed:&lt;#imageName#&gt;]</string>
+	<string>__weak typeof(&lt;#Class *#&gt;) weak&lt;#obj#&gt; = &lt;#obj#&gt;;</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>59F1F23E-EE82-4BB5-8AE1-F732BB1ABE11</string>
+	<string>35991F77-9D86-4510-AA02-049D4917E237</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Objective-C</string>
 	<key>IDECodeSnippetSummary</key>
 	<string>zx</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>[UIImage imageNamed:imageName]</string>
+	<string>weak object</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>
