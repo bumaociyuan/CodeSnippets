@@ -3,21 +3,21 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>ZXLog</string>
+	<string>iboutlet</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>NSLog(@"%@",&lt;#id#&gt;)</string>
+	<string>@IBOutlet weak var &lt;#obj#&gt;: &lt;#Class#&gt;!</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>6186DB3F-9CA7-4D43-B8DC-D8DEC823A453</string>
+	<string>DFAB457E-9702-4E7D-B39A-02F5D7BDD846</string>
 	<key>IDECodeSnippetLanguage</key>
-	<string>Xcode.SourceCodeLanguage.Objective-C</string>
+	<string>Xcode.SourceCodeLanguage.Swift</string>
 	<key>IDECodeSnippetSummary</key>
 	<string>zx</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>NSLog</string>
+	<string>@IBOutlet weak var</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>
