@@ -3,24 +3,24 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>zxweakobj</string>
+	<string>peekfloat</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
 		<string>CodeBlock</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>__weak typeof(&lt;#Class *#&gt;) weak&lt;#obj#&gt; = &lt;#obj#&gt;;</string>
+	<string>NSLog(@"%f",&lt;#CGFloat#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>35991F77-9D86-4510-AA02-049D4917E237</string>
+	<string>E9D93E94-8DC5-4EA5-9539-5BB337F90F45</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Objective-C</string>
 	<key>IDECodeSnippetSummary</key>
 	<string>zx</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>weak object</string>
+	<string>peekCGFloat</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>
-	<integer>2</integer>
+	<integer>0</integer>
 </dict>
 </plist>
