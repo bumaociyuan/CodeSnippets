@@ -3,21 +3,23 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>@weakify</string>
+	<string>mas_update</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
 		<string>CodeBlock</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>@weakify(self);</string>
+	<string>    [&lt;#view#&gt; mas_updateConstraints:^(MASConstraintMaker *make) {
+        &lt;#code#&gt;
+    }];</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>8BD37943-38C9-457C-9E2E-6D818F00DB79</string>
+	<string>332308DE-6DE3-467E-B20A-9E208F9B3F6B</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Objective-C</string>
 	<key>IDECodeSnippetSummary</key>
 	<string>zx</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>@weakify(self);</string>
+	<string>mas_update</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>

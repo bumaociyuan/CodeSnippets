@@ -9,18 +9,18 @@
 		<string>CodeBlock</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>@weakify(self);</string>
+	<string>@weakify(&lt;#object#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>8BD37943-38C9-457C-9E2E-6D818F00DB79</string>
+	<string>3024B59B-E195-41A3-B7D3-F345AD5739C4</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Objective-C</string>
 	<key>IDECodeSnippetSummary</key>
 	<string>zx</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>@weakify(self);</string>
+	<string>@weakify(object);</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>
-	<integer>2</integer>
+	<integer>0</integer>
 </dict>
 </plist>
