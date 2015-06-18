@@ -9,7 +9,7 @@
 		<string>CodeExpression</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>@keypath(self,&lt;#property#&gt;)</string>
+	<string>@keypath(self, &lt;#property#&gt;)</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>738F871A-D00C-49D6-9058-7463606153E5</string>
 	<key>IDECodeSnippetLanguage</key>
@@ -21,6 +21,6 @@
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>
-	<integer>0</integer>
+	<integer>2</integer>
 </dict>
 </plist>
