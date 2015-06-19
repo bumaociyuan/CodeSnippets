@@ -3,24 +3,24 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>pkpoint</string>
+	<string>pkbool</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
 		<string>CodeBlock</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>NSLog(@"%@",NSStringFromCGPoint(&lt;#CGPoint point#&gt;));</string>
+	<string>NSLog(@"%d",&lt;#BOOL#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>145018C4-157C-405B-94DC-C8803C1BF2A2</string>
+	<string>CC6958B4-C393-4260-B90D-FA94176FE028</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Objective-C</string>
 	<key>IDECodeSnippetSummary</key>
 	<string>zx</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>peekCGPoint</string>
+	<string>peekBOOL</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>
-	<integer>2</integer>
+	<integer>0</integer>
 </dict>
 </plist>
