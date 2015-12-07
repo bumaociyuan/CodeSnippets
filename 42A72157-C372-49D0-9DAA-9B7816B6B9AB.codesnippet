@@ -3,24 +3,24 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>todo</string>
+	<string>fixme</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>//TODO: &lt;#do some thing#&gt;</string>
+	<string>//FIXME: &lt;#fix some issue#&gt;</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>B692667E-61E9-469A-90E9-28FDDB3CE210</string>
+	<string>42A72157-C372-49D0-9DAA-9B7816B6B9AB</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Swift</string>
 	<key>IDECodeSnippetSummary</key>
 	<string>zx</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>//TODO: do some thing</string>
+	<string>//FIXME: fix some issue</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>
-	<integer>2</integer>
+	<integer>0</integer>
 </dict>
 </plist>
