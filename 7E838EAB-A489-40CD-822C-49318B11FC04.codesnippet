@@ -3,21 +3,23 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>fixme</string>
+	<string>dispatch_after</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>//FIXME: &lt;#fix some issue#&gt;</string>
+	<string>dispatch_after(dispatch_time(DISPATCH_TIME_NOW, Int64(&lt;#time to delay#&gt; * Double(NSEC_PER_SEC))), dispatch_get_main_queue(), { () -&gt; Void in
+            &lt;#code#&gt;
+        })</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>42A72157-C372-49D0-9DAA-9B7816B6B9AB</string>
+	<string>7E838EAB-A489-40CD-822C-49318B11FC04</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Swift</string>
 	<key>IDECodeSnippetSummary</key>
 	<string>zx</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>//FIXME: fix some issue</string>
+	<string>GCD: Dispatch After</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>
