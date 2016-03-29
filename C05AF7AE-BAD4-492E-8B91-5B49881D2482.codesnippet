@@ -9,8 +9,7 @@
 		<string>ClassImplementation</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>lazy var &lt;#property#&gt;: &lt;#Class#&gt; = {
-    [unowned self] in
+	<string>lazy var &lt;#property#&gt;: &lt;#Class#&gt; = { [unowned self] in
     let result = &lt;#Class#&gt;()
     &lt;#setup#&gt;
     return result
